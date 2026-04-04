@@ -1,0 +1,1 @@
+- [GORM Official Documentation: Hooks](https://gorm.io/docs/hooks.html)

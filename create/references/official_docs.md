@@ -1,0 +1,1 @@
+- [GORM Official Documentation: Create](https://gorm.io/docs/create.html)

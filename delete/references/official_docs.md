@@ -1,0 +1,1 @@
+- [GORM Official Documentation: Delete](https://gorm.io/docs/delete.html)

@@ -1,0 +1,1 @@
+- [GORM Official Documentation: Query](https://gorm.io/docs/query.html)

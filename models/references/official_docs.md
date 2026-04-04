@@ -1,0 +1,1 @@
+- [GORM Official Documentation: Models](https://gorm.io/docs/models.html)

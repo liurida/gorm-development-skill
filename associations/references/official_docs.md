@@ -1,0 +1,1 @@
+- [GORM Official Documentation: Associations](https://gorm.io/docs/associations.html)
